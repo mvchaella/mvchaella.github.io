@@ -16,7 +16,6 @@ labels:
 Compared to the other languages that I’ve learned, JavaScript feels more human in the sense that there can be a lot of room for interpretation. Unlike Java, C, or C++, there’s no declaring variable type when defining a variable or passing it through an argument, entire functions can be rewritten into one line of code, and I’m still trying to understand how objects are formed in JavaScript. Last semester I took ICS 212, where we learned C/C++ , and the one thing I enjoyed about C was how explicit everything seemed. I felt like I could understand each line of code and trace out the ways the computer processes it. Each line was either read, write, allocate memory, deallocate memory, or basic math. I know conceptually the same simple 5 steps are the foundation of JavaScript, of any coding language, but the shorthand syntax feels like it's hiding all of it from me. It’s like when I go back to my notes and I forget what I wrote cause I was just getting thoughts down as fast as possible and now with the context long forgotten all I have is a bunch of squiggly lines. I’ve been coding for almost 2 years now, and I started with Java in my first college course, so learning JavaScript feels like learning computer slang. 
 
 <br>
-<br>
 
 ## Using JavaScript to build my coding skills
 
