@@ -24,6 +24,6 @@ The program was able to
 
 In this project I gained experience with C++ and back-end development. Here is some example code to illustrate the code's functionality:
 
-
+<img src="ics212_database_1.png">
  
 Source Code: Not Available Yet
