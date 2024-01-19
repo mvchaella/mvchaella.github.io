@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/BDCUHLogo.png
 title: "Ballroom Dance Club"
 date: 2024 
 published: false
@@ -36,4 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at the [Ballroom | ACM @ Manoa](([https://acmmanoa.org/pages/clubs/ballroom/)).
