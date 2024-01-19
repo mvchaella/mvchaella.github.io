@@ -24,4 +24,4 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 
 
 
-You can learn more at the [Ballroom | ACM @ Manoa](https://acmmanoa.org/pages/clubs/ballroom/).
+You can learn more at the [Ballroom | ACM @ Manoa]("https://acmmanoa.org/pages/clubs/ballroom/").
