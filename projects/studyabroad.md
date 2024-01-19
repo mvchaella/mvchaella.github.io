@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/github_studyabroad.jpg
 title: "Study Abroad: Annecy, France"
 date: 2023
 published: false
 labels:
   - Language Learning
   - French
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Study Abroad Experience for Summer 2023 in Annecy, France for 6 credits of language credit."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
