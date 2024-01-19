@@ -36,4 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [Ballroom | ACM @ Manoa](([https://acmmanoa.org/pages/clubs/ballroom/)).
+You can learn more at the [Ballroom | ACM @ Manoa]([https://acmmanoa.org/pages/clubs/ballroom/).
