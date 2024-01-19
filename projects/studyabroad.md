@@ -4,7 +4,7 @@ type: project
 image: img/github_studyabroad.jpg
 title: "Study Abroad: Annecy, France"
 date: 2023
-published: false
+published: true
 labels:
   - Language Learning
   - French
