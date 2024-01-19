@@ -11,13 +11,13 @@ labels:
 summary: "Study Abroad Experience for Summer 2023 in Annecy, France for 6 credits of language credit."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+## L'expérience française et être indépendant
+*The French experience and being on my own.*
 
 
 
+## Study Abroad Report for the Alliance Française Hawai'i (AFH)
 
-</pre>
+Prior to joining the study abroad I was awarded a scholarship from the Alliance Française Hawai'i and was also able to write a report in French to be published in their bi-monthly newsletter.
 
-<hr>
-
-PDF of Alliance Franćaise Hawai'i Newsletter: Not Yet Available
+PDF of AFH Newsletter: Not Yet Available
