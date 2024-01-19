@@ -34,5 +34,4 @@ As an officer I handle mostly the promotional aspect of ballroom.
 <p align="center" >
 <img src = "https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fe9375f2-0bba-4305-8323-75cd296814a0">
 
-<p align="center" >
-You can learn more at the [Ballroom | ACM @ Manoa](https://acmmanoa.org/pages/clubs/ballroom/).
+You can learn more at [Ballroom | ACM @ Mānoa](https://acmmanoa.org/pages/clubs/ballroom/)
