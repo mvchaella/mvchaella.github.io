@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Simple Database"
+date: 2023
 published: false
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - C++
+  - ICS 212
+  - Project
+summary: "A database program that stored inputed information in a sorted list created in ICS 212."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
