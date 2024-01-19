@@ -22,6 +22,5 @@ Sometimes I feel like I’m playing a never-ending game of catch-up because ther
 
 ## Future Computer Composition
 
-<img width="600px" class="rounded float-start pe-4" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/139b869e-35da-47c2-8881-8960845c7398">
 
 
