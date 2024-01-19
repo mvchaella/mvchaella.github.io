@@ -4,7 +4,7 @@ type: essay
 title: "Designing a Better World"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
-published: false
+published: true
 labels:
   - ICS 314
   - Essays
@@ -17,10 +17,11 @@ Up until now, I’ve always struggled to find a passion for anything particular.
 ## Building a Skills Palette
 ![image](https://github.com/mvchaella/mvchaella.github.io/assets/131205465/e9e7da89-d42e-4204-8dac-c045a9314610)
 
-Sometimes I feel like I’m playing a never-ending game of catch-up because there is an infinite amount of skills 
+Sometimes I feel like I’m playing a never-ending game of catch-up because there is an infinite amount of skills to learn, and my skills palette is small. I have a bit of experience in Java, C, C++, and R, but I haven't experienced enough of them to claim proficiency. Through ICS 314 I’m excited to add Javascript.
 
 
 ## Future Computer Composition
+Despite this being my second year in the Information & Computer Science major, I haven’t taken the skills I’ve learned beyond the classroom. That’s my biggest goal for this year – to start creating something. One of the main reasons I was looking forward to taking ICS 314 this semester was because I wanted to learn how to create an application, and I'm starting to feel a little bit more confident my growing abilities. The WODs in class help remind me that sometimes I know more than I thought, and I leave feeling a little closer to capable of building an app. I look forward to doing more WODs as these experience will enhance my programming skills and help me gain practical experience for more opportunities in the future. At the end of this all, I hope I come out as a competent software developer.
 
 
 
