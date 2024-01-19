@@ -8,6 +8,7 @@ published: true
 labels:
   - ICS 314
   - Essay
+  - JavaScript
 ---
 
 *After I completed the JavaScript code camp, I remember thinking that the syntax of this language makes the name make sense. It's like Java, but the style of it reminds me of a script-style font, a half cursive mix of letters that I use to write when I use pen and paper. Each line looked more like how I would jot down notes, – shorthand, scrawl-like, and imprecise.* <br>
