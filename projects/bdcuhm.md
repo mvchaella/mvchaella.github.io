@@ -22,8 +22,9 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 <p align="center">
 The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently working towards the next ballroom competition in March - Aloha Ball!
 
-## Dance, dance, dance!
 <p align="left">
+  
+## Dance, dance, dance!
 Ballroom dancing is a partner sport, so every dance requires two people. Naturally, ballroom dancing has allowed me to practice socializing with more people and prioritize collaboration and communication.
 
 ## Being an Officer
