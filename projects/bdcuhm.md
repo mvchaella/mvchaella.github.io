@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Ballroom Dance Club"
-date: 2022
+date: 2024 
 published: false
 labels:
   - Extracurricular
   - Ballroom Dancing
   - Soft Skills
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
 <div class="text-center p-4">
