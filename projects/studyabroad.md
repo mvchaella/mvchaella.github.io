@@ -25,7 +25,7 @@ For a month I was across the world in France on my own, immersed in a foreign cu
 <img width="660" alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
 
 
-## Study Abroad Report for the Alliance Française Hawai'i 
+## Report for the Alliance Française Hawai'i 
 
 Prior to joining the study abroad I was awarded a scholarship from the Alliance Française Hawai'i (AFH) and was also able to write a report in French to be published in their bi-monthly newsletter.
 
