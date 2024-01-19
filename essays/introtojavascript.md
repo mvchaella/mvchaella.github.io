@@ -6,6 +6,7 @@ title: "JavaScript looks like my handwriting"
 date: 2024-01-17
 published: true
 labels:
+  - ICS 314
   - Essay
 ---
 
