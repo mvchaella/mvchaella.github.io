@@ -4,7 +4,7 @@ type: project
 image: img/BDCUHLogo.png
 title: "Ballroom Dance Club"
 date: 2024 
-published: false
+published: true
 labels:
   - Extracurricular
   - Ballroom Dancing
