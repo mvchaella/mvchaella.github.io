@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Study Abroad: Annecy, France"
+date: 2023
 published: false
 labels:
-  - Lisp
-  - GitHub
+  - Language Learning
+  - French
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
