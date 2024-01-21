@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/mvchaella.png",
     "email": "jmv9@hawaii.edu",
-    "phone": "808-351-8657",
     "website": "https://mvchaella.github.io",
     "summary": "I am studying for a B.A. in Information & Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -17,6 +16,7 @@
     { "name": "Data Science" },
     { "name": "Sustainability" },
     { "name": "Economics" },
+    { "name": "UI/UX Design" },
     { "name": "Ballroom Dancing" }
   ],
   "skills": [
@@ -35,8 +35,14 @@
       "area": "Information & Computer Science (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2022-09",
-      "endDate": "Present",
-      "courses": [ "ICS 111", "ICS 211", "ICS 212", "ICS 241", "ICS 242" ]
+      "endDate": "Present"
+    },
+     {
+      "institution": "IFALPES: Institut Français des Alpes",
+      "area": "French A2 Language Certificate",
+      "studyType": "Summer Study Abroad",
+      "startDate": "2023-07",
+      "endDate": "2023-08"
     }
   ],
   "work": [
@@ -48,7 +54,20 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Digitize the official CSAS Archive",
+        "digitized the Center for South Asian Studies archive at the University of Hawai’i at Mānoa",
+        "performed standard administrative tasks, including file organization and general paperwork",
+      ]
+    },
+    {
+      "company": "Nurse Aide at R&P Villanueva Care Home",
+      "website": "Nurse Aide",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Nurse Aide Certified + BLS Certified",
+        "provided care to 3 patients",
+        "managed the daily routines of patients, ensuring their well-being and comfort",
       ]
     }
   ],
@@ -61,6 +80,20 @@
       "endDate": "2022",
       "summary": "Led outreach projects for educating the community on climate action.",
       "highlights": [
+        "facilitated tabling events by managing logistics and organizing",
+        "led outreach projects for educating the community on climate action",
+        "presented as a spokesperson for the organization at BluePlane summit",
+      ]
+    },
+    {
+      "organization": "Hawaii's House of Representatives, Office of Representative Gates",
+      "position": "Student Aide to Chief of Staff",
+      "startDate": "2022-01",
+      "endDate": "2022-05",
+      "summary": "",
+      "highlights": [
+        "condensed public hearing testimony notes in order to give bill recommendations",
+        "formed understanding of behind the scenes legislative work",
       ]
     }
   ],
@@ -70,6 +103,12 @@
       "date": "2023",
       "awarder": "National Dance Council of America",
       "summary": "Placed 1st for American Cha-Cha and American Rumba"
+    }.
+    {
+      "title": "2023 Hawaii Star Ball Amateur Smooth Pre-Novice, 2nd Place",
+      "date": "2023",
+      "awarder": "National Dance Council of America",
+      "summary": "Placed 2nd for American Waltz and American Tango"
     }
   ],
   "references": [
