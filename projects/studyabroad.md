@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/github_studyabroad.jpg
+image: img/studyabroadlogo.png
 title: "Study Abroad: Annecy, France"
 date: 2023
 published: true
