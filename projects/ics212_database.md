@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cpluspluslogo.jpeg
+image: img/cplusplus2.png
 title: "Simple Database"
 date: 2023
 published: true
