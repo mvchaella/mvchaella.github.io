@@ -13,19 +13,20 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
-  <img width="200px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
+  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
 </div>
 
 ## Ballroom Dance Club at UH Mānoa (BDCUHM)
-The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently working towards the next ballroom competition in March - Aloha Ball!
+*The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently working towards the next ballroom competition in February - Aloha Ball!*
+
+
 
 ## Dance, dance, dance!
 Ballroom dancing is a partner sport, so every dance requires two people. Naturally, ballroom dancing has allowed me to practice socializing with more people and prioritize collaboration and communication.
 
-## Being an Officer
-As an officer I handle mostly the promotional aspect of ballroom.
+
 
 <br>
 <p align="center" >
