@@ -4,7 +4,7 @@ type: essay
 title: "I need to ask, how do I ask?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: false
+published: true
 labels:
   - ICS 314
   - Essay
