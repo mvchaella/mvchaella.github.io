@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "I Need to Ask, How Do I Ask?"
+title: "I Need to Ask - How Do I Ask?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
