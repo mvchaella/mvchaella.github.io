@@ -28,9 +28,12 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 
 <br>
 
-<p align="left" >
-  
+
+
+
 ## It's all in the timing
+
+<p align="left" >
 
 Prior to college, my relationship with physical activity near non-existant. Enter the spring semester of my freshman year in college, where I made a radical decision to transform my attitude towards exercise. The catalyst? Joining ballroom dancing!
 
