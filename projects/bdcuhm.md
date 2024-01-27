@@ -19,16 +19,11 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 </div>
 
 # Ballroom Dance Club at UH Mānoa (BDCUHM)
-
-<p align="center" >
-  
+ 
 *The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions.*
 
 *Currently I'm working towards the next ballroom competition in February - Aloha Ball! And after that - nationals!*
 
-<p align="left" >
-<br>
-  
 ## It's all in the timing
 
 Prior to college, my relationship with physical activity near non-existant. Enter the spring semester of my freshman year in college, where I made a radical decision to transform my attitude towards exercise. The catalyst? Joining ballroom dancing!
