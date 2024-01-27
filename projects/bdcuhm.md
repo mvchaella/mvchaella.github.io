@@ -26,14 +26,10 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 
 *Currently I'm working towards the next ballroom competition in February - Aloha Ball! And after that - nationals!*
 
-<br>
-
-
-
-
-## It's all in the timing
-
 <p align="left" >
+<br>
+  
+## It's all in the timing
 
 Prior to college, my relationship with physical activity near non-existant. Enter the spring semester of my freshman year in college, where I made a radical decision to transform my attitude towards exercise. The catalyst? Joining ballroom dancing!
 
