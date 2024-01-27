@@ -7,7 +7,7 @@ date: 2024-01-18
 published: true
 labels:
   - ICS 314
-  - Essays
+  - Essay
   - Software Development
 ---
 
@@ -34,6 +34,6 @@ Despite this being my second year in the Information & Computer Science major, I
 
 <br>
 <p align="center">
-*Note: This essay has been crafted with the help of ChatGPT for structural revision*
+*Note: This essay has been crafted with the help of ChatGPT for grammar*
 
 
