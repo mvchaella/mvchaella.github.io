@@ -14,7 +14,7 @@ summary: "Study Abroad Experience for Summer 2023 in Annecy, France for 6 credit
 <img width="660" alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/ec5894d5-bf74-4ac7-ac30-0d44c4c5b133">
 
 ## L'expérience française et être indépendant
-*The French experience and being on my own.*
+### The French experience and being on my own.
 
 For a month I was across the world in France on my own, immersed in a foreign culture. This was an opportunity I am very fortunate to have, as this immersion facilitated my language learning as well as honed my abilities to adapt and explore.
 
