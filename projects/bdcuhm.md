@@ -36,4 +36,4 @@ Ballroom dancing is a partner sport, so every dance requires two people. Natural
 <p align="center" >
 <br>
 
-You can learn more at [Ballroom | ACM @ Mānoa](https://acmmanoa.org/pages/clubs/ballroom/).
+You can learn more at [Ballroom ACM @ Mānoa](https://acmmanoa.org/pages/clubs/ballroom/).
