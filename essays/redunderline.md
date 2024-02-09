@@ -4,7 +4,7 @@ type: essay
 title: "Chipping Away at Red Underlines"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: false
+published: true
 labels:
   - ICS314
   - Essay
