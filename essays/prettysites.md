@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Pretty Sight - Well-Designed Sites"
+title: "A Pretty Sight: Well-Designed Sites"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
