@@ -29,6 +29,20 @@ Of course, UI frameworks have their limitations and drawbacks. They can sometime
 
 I have to admit, Bootstrap isn't always my favorite tool to work with. Sometimes, I struggle to find it readable. The abundance of classes and nested structures can make the HTML markup hard to follow, leading to frustration in my workflow. Additionally, its rigid conventions don't always align with the specific design needs of my projects, making me feel constrained rather than empowered. While I do appreciate the convenience Bootstrap offers, there are definitely times when I wish for a more intuitive and customizable framework that suits my coding style and project requirements better.
 
+Here is an example of a site I attempted to create: 
+
+<div class="row">
+  <div class="col">
+    <img src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
+  </div>
+
+  <div class="col">
+    <img src=https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230>
+  </div>
+</div>
+
+
+
 # My Insights on Pretty Sights
 
 
