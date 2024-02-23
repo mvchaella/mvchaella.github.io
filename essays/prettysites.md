@@ -45,7 +45,7 @@ Here is an example of a site I attempted to create:
   <div class="col-1">
     <img width=300px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
   </div>
-  <div class="col-1">
+  <div class="col-5">
     <img width=300px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230">
   </div>
 </div>
