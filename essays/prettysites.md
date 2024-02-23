@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Insights on Pretty sites"
+title: "A Pretty Sight - Well-Designed Sites"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
@@ -27,3 +27,6 @@ Of course, UI frameworks have their limitations and drawbacks. They can sometime
 
 # My Experience with Bootstrap 5
 
+I have to admit, Bootstrap isn't always my favorite tool to work with. Sometimes, I struggle to find it readable. The abundance of classes and nested structures can make the HTML markup hard to follow, leading to frustration in my workflow. Additionally, its rigid conventions don't always align with the specific design needs of my projects, making me feel constrained rather than empowered. While I do appreciate the convenience Bootstrap offers, there are definitely times when I wish for a more intuitive and customizable framework that suits my coding style and project requirements better.
+
+# My Insights on Pretty Sights
