@@ -41,6 +41,14 @@ I have to admit, Bootstrap isn't always my favorite tool to work with. Sometimes
 
 Here is an example of a site I attempted to create: 
 
+<img width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
+
+And here are my results: 
+<img width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230">
+
+Definitely some notable difference.
+
+<!--
 <div class="row">
   <div class="col-1">
     <img width=300px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
@@ -49,7 +57,7 @@ Here is an example of a site I attempted to create:
     <img width=300px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230">
   </div>
 </div>
-
+-->
 
 
 # My Insights on Pretty Sights
