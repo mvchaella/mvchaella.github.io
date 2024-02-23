@@ -20,16 +20,18 @@ When I saw an ugly website, my first thought would be *“how could someone actu
 
 # The Basics of UI Frameworks
 
-UI frameworks like Bootstrap and Semantic UI offer a pre-designed set of components, styles, and utilities that streamline the process of building user interfaces. At first glance, this might not seem like a big deal. After all, can't we just craft our own styles and layouts from scratch using raw HTML and CSS? Sure, but that's like reinventing the wheel every time we need to build a car.
+UI frameworks like Bootstrap and Semantic UI offer a pre-designed set of components, styles, and utilities that streamline the process of building user interfaces.
 
 <img align=right width=300px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/486c91e3-e341-46f1-8b9e-ba6b0671257b">
 
+At first glance, this might not seem like a big deal. After all, can't we just craft our own styles and layouts from scratch using raw HTML and CSS? Sure, but that's like reinventing the wheel every time we need to build a car.
 
 The main benefit of UI frameworks is it makes designing convenient. Instead of coding out every button, form field, and navigation bar from scratch, you can simply drop in pre-made components that are already styled and responsive. This can help make website development faster and more consistent across projects. Plus, most UI frameworks, especially Bootstrap 5, come with extensive documentation, making it easier to troubleshoot issues and learn best practices.
 
 From a software engineering perspective, UI frameworks reusable code, and it encourages developers to break their interfaces down into smaller, more manageable components. Being able to take code and re-implement them in different situations is a skill that grows the more familiar you get with using Bootstrap.
 
 In many ways, Bootstrap makes things convenient.
+
 
 <br>
 
@@ -49,6 +51,7 @@ Here is an example of a site I attempted to create:
 </div>
 
 Definitely some notable difference. The originial website probably used tools beyond Bootstrap, and while Bootstrap helped me design a site that came pretty close, it definitely wasn't pixel perfect.
+
 
 # My Insights on Pretty Sights
 
