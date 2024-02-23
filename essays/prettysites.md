@@ -25,26 +25,29 @@ UI frameworks like Bootstrap and Semantic UI offer a pre-designed set of compone
 <img align=right src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/486c91e3-e341-46f1-8b9e-ba6b0671257b">
 
 
-The real allure of UI frameworks lies in their ability to save time and effort. Instead of coding out every button, form field, and navigation bar from scratch, we can simply drop in pre-made components that are already styled and responsive. This not only speeds up development but also ensures consistency across our projects. Plus, most UI frameworks come with extensive documentation and community support, making it easier to troubleshoot issues and learn best practices.
+The main benefit of UI frameworks is it makes designing convenient. Instead of coding out every button, form field, and navigation bar from scratch, you can simply drop in pre-made components that are already styled and responsive. This can help make website development faster and more consistent across projects. Plus, most UI frameworks, especially Bootstrap 5, come with extensive documentation, making it easier to troubleshoot issues and learn best practices.
 
-From a software engineering perspective, they promote modular and reusable code, encouraging developers to break their interfaces down into smaller, more manageable components. This not only makes our codebase more maintainable but also allows for easier collaboration among team members.
+From a software engineering perspective, UI frameworks reusable code, and it encourages developers to break their interfaces down into smaller, more manageable components. Being able to take code and re-implement them in different situations is a skill that grows the more familiar you get with using Bootstrap.
 
-In various ways, Bootstrap makes things convenient.
-
-Of course, UI frameworks have their limitations and drawbacks. They can sometimes be bloated, adding unnecessary overhead to our projects. And while they offer a great starting point, they can also lead to cookie-cutter designs if not customized thoughtfully. Plus, there's a learning curve involved in mastering any new framework, which can be frustrating for developers already juggling multiple languages and technologies.
+In many ways, Bootstrap makes things convenient.
 
 <br>
 
 # My Experience with Bootstrap 5
 
-I have to admit, Bootstrap isn't always my favorite tool to work with. Sometimes, I struggle to find it readable. The abundance of classes and nested structures can make the HTML markup hard to follow, leading to frustration in my workflow. Additionally, its rigid conventions don't always align with the specific design needs of my projects, making me feel constrained rather than empowered. While I do appreciate the convenience Bootstrap offers, there are definitely times when I wish for a more intuitive and customizable framework that suits my coding style and project requirements better.
+Of course, UI frameworks have their limitations and drawbacks. 
+
+I have to admit, Bootstrap isn't my favorite tool to work with. Personally, I struggle to find it readable. The abundance of classes and nested structures can make the HTML markup hard to follow, leading to frustration in my workflow. And while they offer a great starting point, Bootstraps rigid conventions don't always align with the specific design I have in mind. This means they can lead to cookie-cutter and awkward designs. Plus, there's a learning curve involved in mastering any new framework, which can be frustrating for developers already juggling multiple languages and technologies.
+
+While I do appreciate the convenience Bootstrap offers, there are definitely times when I wish for a more intuitive and customizable framework that suits my coding style and project requirements better.
 
 Here is an example of a site I attempted to create: 
 
-<img width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
+<img align=center width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/06e4cac7-1d87-417c-9a4a-42535b136679">
 
 And here are my results: 
-<img width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230">
+
+<img align=center width=400px src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/c5920aa5-3393-4378-b42b-29bb30f3b230">
 
 Definitely some notable difference.
 
