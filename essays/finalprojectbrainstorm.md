@@ -21,9 +21,14 @@ These items could otherwise be re-homed and given to other students moving into 
 ## Mockup Page Ideas
 <li>Use a google map feature so that items can be sorted by location</li>
 <li>A side bar that is a list of all the items</li>
-<li>Each items page is sorted by category</li>
+<li>Each items page has these categories:
+     <li>Item Type</li>
+     <li>Condition</li>
+     <li>Seller</li>
+</li>
 
 ## Use case ideas
+During move-in weeks a dorm student with things to give away can snap a photo of the item they need to get rid of, fill out a form describing the item, condition, and add a tag for location, then upload it to the app.
 
 ## Beyond the basics
 
