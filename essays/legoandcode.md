@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "LEGO Logic"
 date: 2024-04-25
-published: false
+published: true
 labels:
   - ICS314
   - JavaScript
@@ -29,6 +29,7 @@ There was creativity, but there was also structure.
 
 <div class="text-center p-4">
   <img align="right" width="500px" src="../img/legoandcode_2.png" class="img-thumbnail" >
+  <img align="right" width="500px" src="../img/legoandcode_3.png" class="img-thumbnail" >
 </div>
 
 I saw this structural pattern present when I learned how to code. I learned using Scratch in class, and the block-like manner that the code existed in reminded me of how it felt playing with Legos. Piece by piece, you can attach blocks of code to another and create a fully functioning program.
