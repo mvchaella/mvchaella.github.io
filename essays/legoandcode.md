@@ -10,14 +10,11 @@ labels:
   - Design Patterns
 ---
 
-<div class="text-center p-4">
-  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
-  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
-</div>
-
-## LEGO Logic
-
+<row>
+  <col>
+    <img align="left" width="400px" src="../img/legoandcode_1.jpeg" class="img-thumbnail" >
+  </col>
+  <col>
 When I was younger, my favorite Christmas gift was a Star Wars Lego set. It wasn’t grand – it was a small pod-racer set from The Phantom Menace. It wasn’t even mine, really – it was meant for my brother, but growing up, we often shared our toys. The set came with two pod-racers, so my brother started building one, and I built the other. I sorted out the pieces and went page by page with the instructions booklet. My brother got tired – he was also 7 – and preferred playing to the assembling process, so I ended up having to build both.
 
 I loved it. The process went by too fast for me, but there was something rewarding about seeing the shape in the booklet materialize in my hands, by my hands. I didn’t get many Lego sets as the years went by, but before going to sleep, I would watch Lego set speed builds. I played Lego Star Wars (the only game that I played), and occasionally I would take apart the set just to put it back together again.
@@ -25,8 +22,16 @@ I loved it. The process went by too fast for me, but there was something rewardi
 There was something so satisfying about seeing how each piece could be utilized in a set, in seeing how the smaller sections that would be put together independently end up fitting right in with each other as they’re maneuvered together.
 
 There was creativity, but there was also structure.
+  </col>
+</row>
 
 ## Brick by Byte: How LEGO building is like Code Building 
+
+<div class="text-center p-4">
+  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
+  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
+</div>
 
 I saw this structural pattern present when I learned how to code. I learned using Scratch in class, and the block-like manner that the code existed in reminded me of how it felt playing with Legos. Piece by piece, you can attach blocks of code to another and create a fully functioning program.
 
