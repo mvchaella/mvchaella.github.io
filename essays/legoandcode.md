@@ -10,6 +10,12 @@ labels:
   - Design Patterns
 ---
 
+<div class="text-center p-4">
+  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
+  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
+</div>
+
 ## LEGO Logic
 
 When I was younger, my favorite Christmas gift was a Star Wars Lego set. It wasn’t grand – it was a small pod-racer set from The Phantom Menace. It wasn’t even mine, really – it was meant for my brother, but growing up, we often shared our toys. The set came with two pod-racers, so my brother started building one, and I built the other. I sorted out the pieces and went page by page with the instructions booklet. My brother got tired – he was also 7 – and preferred playing to the assembling process, so I ended up having to build both.
