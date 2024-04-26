@@ -28,9 +28,7 @@ There was creativity, but there was also structure.
 ## Brick by Byte: How LEGO building is like Code Building 
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
-  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
+  <img align="right" width="500px" src="../img/legoandcode_2.png" class="img-thumbnail" >
 </div>
 
 I saw this structural pattern present when I learned how to code. I learned using Scratch in class, and the block-like manner that the code existed in reminded me of how it felt playing with Legos. Piece by piece, you can attach blocks of code to another and create a fully functioning program.
