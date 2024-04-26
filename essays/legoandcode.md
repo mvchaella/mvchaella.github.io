@@ -23,9 +23,10 @@ There was creativity, but there was also structure.
 ## Brick by Byte: How LEGO building is like Code Building 
 
 <img align="right" width="500px" src="../img/legoandcode_2.png" class="img-thumbnail" >
-<img align="right" width="500px" src="../img/legoandcode_3.png" class="img-thumbnail" >
 
 I saw this structural pattern present when I learned how to code. I learned using Scratch in class, and the block-like manner that the code existed in reminded me of how it felt playing with Legos. Piece by piece, you can attach blocks of code to another and create a fully functioning program.
+
+<img align="right" width="500px" src="../img/legoandcode_3.png" class="img-thumbnail" >
 
 When I code, I use the same approach as building with Legos, called the Builder Design Pattern. This pattern separates making an object from how it looks. It has a basic outline (Builder) for making parts of a complex object and specific ways to make each part. I add or set up different parts of the object by using methods on the builder, step by step. This way of building makes it easier to put things together in different ways. The Director class manages the steps, but it's optional. It helps organize the order in which the builder's methods are used. In the end, we get the finished object by using a method on the builder.
 
