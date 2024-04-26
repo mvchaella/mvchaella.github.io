@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "LEGO Logic"
+title: "LEGO Logic: Coding Piece by Piece"
 date: 2024-04-25
 published: true
 labels:
@@ -9,7 +9,6 @@ labels:
   - JavaScript
   - Design Patterns
 ---
-
 
 <img align="left" width="400px" src="../img/legoandcode_1.jpeg" class="img-thumbnail" >
 
