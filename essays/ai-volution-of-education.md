@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI-volution of Eduction"
+title: "AI-volution of Education"
 date: 2024-05-08
 published: false
 labels:
