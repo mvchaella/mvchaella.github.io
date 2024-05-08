@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI-volution of Education"
 date: 2024-05-08
-published: false
+published: true
 labels:
   - Artificial Intelligence
   - ICS 314
