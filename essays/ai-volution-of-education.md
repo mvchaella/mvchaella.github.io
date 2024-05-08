@@ -10,6 +10,8 @@ labels:
   - Reflections
 ---
 
+<img align="center" width="400px" src="../img/ai_education.avif" class="img-thumbnail" >
+
 ### I. Introduction
 
 The use of Artificial Intelligence (AI) in education has risen significantly in recent years. Tools like ChatGPT, Bing AI, and Co-Pilot have become essential resources, condensing vast amounts of information from the internet with a simple prompt.
