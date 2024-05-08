@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BDCUHLogo.png
+image: img/bdcuhm/BDCUHLogo.png
 title: "Ballroom Dance Club"
 date: 2024 
 published: true
