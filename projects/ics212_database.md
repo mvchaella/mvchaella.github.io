@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cplusplus2.png
+image: img/cdatabase/cplusplus2.png
 title: "Simple Database"
 date: 2023
 published: true
@@ -19,6 +19,6 @@ This simple database is a program that I created as an assignment in ICS 212, Fa
 The project helped me learn how to design a user interface and implement a single linked list data structure. It was developed on UNIX, a multi-user operating system, and coded using C++. In this project I gained experience with C++ and back-end development. 
 
 Here is some example of the output to illustrate the code's functionality:
-<img src="../img/ics212_database_1.png" class="img-thumbnail" >
+<img src="../img/cdatabase/ics212_database_1.png" class="img-thumbnail" >
  
 Source Code: Not Available Yet
