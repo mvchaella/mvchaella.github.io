@@ -60,6 +60,7 @@ For performances our club does formations, meaning a group of us dances in a coh
 <li>2024 USADance Nationals Formation - Foxtrot, Viennese Waltz Medley</li>
 <li>2024 Spring ICS Project Day - Cha Cha, Bolero, Hustle Medley</li>
 </details>
+<br>
 Our next performance will be May 11, a Cha Cha, Bolero, Hustle Medley.
 <br>
 
@@ -77,6 +78,7 @@ For competitons, members generally focus on technique and consistency. Partnersh
 | 2023 Hawaii Star Ball   | 2nd in Smooth + 1st in Rhythm  |
 | 2024 Aloha Ball         | 1st in Smooth + 3rd in Rhythm  |
 | 2024 Nationals          | *                              |
+
 <br>
 * For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
 </details>
