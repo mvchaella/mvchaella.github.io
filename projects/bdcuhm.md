@@ -24,6 +24,8 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 
 ## Communication Officer Responsibilities
 
+//INSERT POSTER IMAGE HERE
+
 I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am responsible for managing the clubs' instagram account and promoting Ballroom Dance Club at various events.
 
 My Main Responsibilities:
@@ -40,37 +42,54 @@ Also given my role, it would be mindless of me to not include this.
 
 <br>
 
+## Performance and Team Member  
 
-## Performances + Competitions
+As a club we typically have at least one performance and one competition each semester. People who perform or compete automatically become performance and team members.
 
-As a club we typically have at least one performance and one competition each semester. 
+### Performances
 
-For performances our club does formations, meaning a group of us dances in a cohesive manner. Here is a list of performances that I've participated in:
+For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
+
+// INSERT PERFORMANCE PICTURES HERE
+
+<details>
+<summary>Here is a list of performances that I've participated in:</summary>
 <li>2023 Spring Performance - Cha Cha, Bachata, Swing Medley</li>
 <li>2023 Fall ICS Project Day - Foxtrot, Viennese Waltz Medley + Nightclub 2 Step, Swing Medley</li>
 <li>2023 Winter Performance - Foxtrot, Viennese Waltz Medley + Nightclub 2 Step, Swing Medley</li>
 <li>2024 USADance Nationals Formation - Foxtrot, Viennese Waltz Medley</li>
 <li>2024 Spring ICS Project Day - Cha Cha, Bolero, Hustle Medley</li>
-<br>
+</details>
 Our next performance will be May 11, a Cha Cha, Bolero, Hustle Medley.
-
-For competitons, I have competed in now 3 styles. Here is a list of competitions that I've competed in:
-<li>2023 Hawaii Star Ball: 2nd in Smooth + 1st in Rhythm</li>
-<li>2024 Aloha Ball: 1st in Smooth + 3rd in Rhythm</li>
-<li>2024 National Collegiate DanceSport Competitons*</li>
-<br>
-*For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th. 
-<br>
 <br>
 
-I've also had the opportunity to write a feature, [Just Dance](https://americandancer.org/just-dance/), for the American Dancer on my 2024 Nationals Experience. 
+### Competitons
 
+For competitons, members generally focus on technique and consistency. Partnership also becomes crucial during competition as you have to operate as one unit, this requires transparency and communication. My competition experience has fostered persistence.
 
-### General Insights: Finding the Rhythm in Life
+//INSERT COMPETITION PHOTOS HERE
+
+<details>
+<summary>Here is a table of competitions that I've competed in:</summary>
+  
+| Competition             | Placements                     |
+|         :---:           | :---:                          |
+| 2023 Hawaii Star Ball   | 2nd in Smooth + 1st in Rhythm  |
+| 2024 Aloha Ball         | 1st in Smooth + 3rd in Rhythm  |
+| 2024 Nationals          | *                              |
+<br>
+* For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
+</details>
+
+Our most recent competition is the 2024 Nationals, where *our UH team won the title of Highest National Average*. I've also had the opportunity to write a feature, [Just Dance](https://americandancer.org/just-dance/), for the American Dancer on my 2024 Nationals Experience. 
+
+Our next competition will be in the Fall Semester, 2024 Hawaii Star Ball.
+
+<br>
+
+## General Insights: Finding the Rhythm in Life
 
 In the world of ballroom dancing, collaboration is key. As a partner sport, every dance requires open and clear communication. After a couple of performances and my first competition, I've learned effective communication with dance partners to navigating the emotional challenges that arise from the close proximity in ballroom. On top of that, my confidence has grown exponentially due ballroom. One lifestyle change I made in order to keep up with ballroom is going to the gym with a friend of mine about 3 times a week. Recognizing that ballroom is not just an art but a sport, I've become mindful of taking care of my body. The personal growth attained has helped me realize that the rhythm of life often mirrors the steps taken on the dance floor, and through ballroom, I've discovered how to dance to that rhythm.
-
-
 
 <br>
 <p align="center" >
