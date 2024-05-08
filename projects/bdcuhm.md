@@ -22,12 +22,16 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
  
 *The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions.*
 
-
 ## Communication Officer Responsibilities
 
-I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am facing a fresh challenge – navigating the realm of social media and promoting for our club. This endeavor introduces a learning curve, particularly for someone like me, navigating the digital landscape with limited social media experience. Still, I this challenge is exhilarating as it pushes me to broaden my skill set.
+I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am responsible for navigating the realm of social media and promoting for our club. 
 
 From the lessons in ballroom I've been given a set of invaluable skills that transcend the dance floor. I've learned the art of effective communication and gained confidence through each graceful movement. The personal growth attained has helped me realize that the rhythm of life often mirrors the steps taken on the dance floor, and through ballroom, I've discovered how to dance to that rhythm.
+
+Given my role, it would be mindless of me to not include this. 
+
+### Follow our Instagram, [@bdcuhm](https://www.instagram.com/bdcuhm/)
+
 
 ## Performances
 
