@@ -79,7 +79,6 @@ For competitons, members generally focus on technique and consistency. Partnersh
 | 2024 Aloha Ball         | 1st in Smooth + 3rd in Rhythm  |
 | 2024 Nationals          | *                              |
 
-<br>
 * For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
 </details>
 
