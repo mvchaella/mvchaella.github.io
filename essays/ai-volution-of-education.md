@@ -32,25 +32,25 @@ I have used AI in class this semester in the following areas:
 
   4. Essays: For essays I would use ChatGPT to clean up my work. I usually start off my essay by writing bullet points of thoughts that I want to incorporate. And with a couple of re-prompting, the response I got from ChatGPT is the intro above with some minor revisions from me.
 
-  5. Final project: For the final project I used ChatGPT. My main task was the Card Pull Page. My greatest issue was creating a pullRandomCard function, which is supposed to randomly choose a card in the all cards collection, and create a copy to put it in the user collections. I used ChatGPT to try to find solutions to this, but ultimately found my answer elsewhere.
+  5. Final project: For the final project I used ChatGPT. My main task was the Card Pull Page. My greatest issue was creating a pullRandomCard function, which is supposed to randomly choose a card in the all cards collection, and create a copy to put it in the user collections. I used ChatGPT to try to find solutions to this, but ultimately found my answer through looking at other examples of code from other projects.
 
-  6. Learning a concept / tutorial
+  6. Learning a concept / tutorial: 
 
   7. Answering a question in class or in Discord: I did not answer any questions in the Discord or in class really, so I had no use for ChatGPT.
 
   8. Asking or answering a smart-question: I did not use ChatGPT for asking or answering a smart-question. I only asked one question in the channel and that was formed with the help of my teammates because it was a question specific to the final project.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example e.g. “give an example of using Underscore .pluck”: I use
 
-  10. Explaining code
+  10. Explaining code: This is probably my biggest use of ChatGPT. Often I would write code and then use ChatGPT to help me trace it by explaining what was happening. It would often catch times when I would using a function that returns the wrong value.
 
-  11. Writing code
+  11. Writing code: I definitely use ChatGPT in writing code. It gives me a place to jump start off of.
 
-  12. Documenting code
+  12. Documenting code: I have never used ChatGPT for documenting code. I think documentation is usually for human ease and so having a human create documentaiton is easier.
 
-  13. Quality assurance 
+  13. Quality assurance: Sometimes before I submit a WOD or an assignment, I would run the function overall through ChatGPT to make sure I'm not missing anything.  
 
-  14. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above: I have not used ChatGPT in any more ways.
 
 
 ### III. Impact on Learning and Understanding:
