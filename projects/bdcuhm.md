@@ -13,9 +13,9 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/project_bdcuhm1.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/BDCUHLogo.png" class="img-thumbnail" >
-  <img width="300px" src="../img/project_bdcuhm2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/bdcuhm/project_bdcuhm1.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/bdcuhm/BDCUHLogo.png" class="img-thumbnail" >
+  <img width="300px" src="../img/bdcuhm/project_bdcuhm2.jpg" class="img-thumbnail" >
 </div>
 
 # Ballroom Dance Club at UH Mānoa (BDCUHM)
