@@ -34,13 +34,13 @@ I have used AI in class this semester in the following areas:
 
   5. Final project: For the final project I used ChatGPT. My main task was the Card Pull Page. My greatest issue was creating a pullRandomCard function, which is supposed to randomly choose a card in the all cards collection, and create a copy to put it in the user collections. I used ChatGPT to try to find solutions to this, but ultimately found my answer through looking at other examples of code from other projects.
 
-  6. Learning a concept / tutorial: 
+  6. Learning a concept / tutorial: I used ChatGPT to get quick definitions of some underscore functions, especially during WODs, but never to thoroughly learn it.
 
   7. Answering a question in class or in Discord: I did not answer any questions in the Discord or in class really, so I had no use for ChatGPT.
 
   8. Asking or answering a smart-question: I did not use ChatGPT for asking or answering a smart-question. I only asked one question in the channel and that was formed with the help of my teammates because it was a question specific to the final project.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”: I use
+  9. Coding example e.g. “give an example of using Underscore .pluck”: I used ChatGPT to get quick examples of how to use underscore function, and during the final project I also asked for quiz component examples.
 
   10. Explaining code: This is probably my biggest use of ChatGPT. Often I would write code and then use ChatGPT to help me trace it by explaining what was happening. It would often catch times when I would using a function that returns the wrong value.
 
