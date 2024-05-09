@@ -12,8 +12,6 @@ labels:
 summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
-<div>
-
 <div class="text-center p-4">
   <img width="300px" src="../img/bdcuhm/project_bdcuhm1.jpg" class="img-thumbnail" >
   <img width="300px" src="../img/bdcuhm/BDCUHLogo.png" class="img-thumbnail" >
@@ -21,6 +19,8 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 </div>
 
 *The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently I am also the clubs Communication Officer.*
+
+<br>
 
 ## Communication Officer Responsibilities
 
@@ -37,6 +37,8 @@ My Main Responsibilities:
 Being the friendly face that greets people and helps them settle into the club has been an experience that has pushes me to grow my interpersonal skills, but I've enjoyed the process. 
 
 Also given my role, it would be mindless of me to not include this: Follow our Instagram, [@bdcuhm](https://www.instagram.com/bdcuhm/), to stay updated with our events.
+
+<br>
 
 ## Performance and Team Member  
 
@@ -100,5 +102,3 @@ In the world of ballroom dancing, collaboration is key. As a partner sport, ever
 <img src = "https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fe9375f2-0bba-4305-8323-75cd296814a0">
 <p align="center" > 
 ChatGPT was used to revised this project summary.
-
-</div>
