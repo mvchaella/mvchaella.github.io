@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/academia-arena/academia-arena-logo.png
+image: img/academia-arena/academia-arena-logo-sizeadjusted.png'
 title: "Academia Arena: ICS Edition"
 date: 2024
 published: true
@@ -20,7 +20,7 @@ summary: "A trading card web application on the UHM ICS Department"
 ## Overview 
 
 <div>
-  <img align="left" width="300px" src="../img/academia-arena//academia-arena-logo.png" class="img-thumbnail" >
+  <img align="left" width="300px" src="../img/academia-arena//academia-arena-logo.png">
 </div>
 
 For my final project in ICS 314 Software Development, I worked in a group of 6 students developing a trading cards game of the ICS department faculty members. This goal aims to bridge the gap between faculty members and students by helping students get familiar with faculty faces and learn professors interests and quirks, ultimately seeing them as a human they can talk to.
@@ -33,12 +33,12 @@ Aside from the landing page, this game has 5 pages:
 <li>Marketplace Page: Users can trade their cards with other users</li>
 <br>
 
-Below (from left to right) is an example of the landing page, the cards, and the home page menu.
+<p align="center"> Below (from left to right) is an example of the landing page, the cards, and the home page menu.</p>
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/academia-arena/landing-page.png" class="img-thumbnail" >
-  <img width="300px" src="../img/academia-arena/card-examples.png" class="img-thumbnail" >
-  <img width="300px" src="../img/academia-arena/home-page.png" class="img-thumbnail" >
+  <img width="400px" src="../img/academia-arena/landing-page.png">
+  <img width="400px" src="../img/academia-arena/card-examples.png">
+  <img width="400px" src="../img/academia-arena/home-page.png">
 </div>
 
 <br>
