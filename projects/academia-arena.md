@@ -33,8 +33,13 @@ Aside from the landing page, this game has 5 pages:
 <li>Marketplace Page: Users can trade their cards with other users</li>
 <br>
 
+Below (from left to right) is an example of the landing page, the cards, and the home page menu.
 
-
+<div class="text-center p-4">
+  <img width="300px" src="../img/academia-arena/landing-page.png" class="img-thumbnail" >
+  <img width="300px" src="../img/academia-arena/card-examples.png" class="img-thumbnail" >
+  <img width="300px" src="../img/academia-arena/home-page.png" class="img-thumbnail" >
+</div>
 
 <br>
 
@@ -42,7 +47,7 @@ Aside from the landing page, this game has 5 pages:
 
 My main task throughout this project was the [Card Pull Page](https://academia-arena.xyz/pull). This page allows the user to gather points by answering ICS-related questions, and once they reach 100 points they are able to pull for a card.
 
-<img align="right" width="300px" src="../img/academia-arena/card-pull-page.png">
+<img align="right" width="300px" src="../img/academia-arena/card-pull-page-2.png">
 
 Features:
 <li>React Quiz Component</li>
