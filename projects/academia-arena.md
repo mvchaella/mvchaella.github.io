@@ -36,9 +36,9 @@ Aside from the landing page, this game has 5 pages:
 <p align="center"> Below (from left to right) is an example of the landing page, the cards, and the home page menu.</p>
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/academia-arena/landing-page.png">
-  <img width="400px" src="../img/academia-arena/card-examples.png">
-  <img width="400px" src="../img/academia-arena/home-page.png">
+  <img width="300px" src="../img/academia-arena/landing-page.png">
+  <img width="300px" src="../img/academia-arena/card-examples.png">
+  <img width="300px" src="../img/academia-arena/home-page.png">
 </div>
 
 <br>
@@ -70,7 +70,7 @@ Academia Arena is a project that took a lot of care and dedication and I hope th
 
 <br>
 
-<p align="center">
+
 
 ## Relevant Links
 
@@ -80,5 +80,5 @@ Our GitHub Organization - [Academia Arena Homepage](academia-arena.github.io)
 
 Our Source Code - [Academia Arena Source Code](https://github.com/academia-arena/academia-arena)
 
-</p>
+
 
