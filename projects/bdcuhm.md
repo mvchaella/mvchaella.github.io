@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/bdcuhm/BDCUHLogo.png
-title: "Ballroom Dance Club"
+title: "Ballroom Dance Club at UH Mānoa (BDCUHM)"
 date: 2024 
 published: true
 labels:
@@ -12,21 +12,21 @@ labels:
 summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
+<div>
+
 <div class="text-center p-4">
   <img width="300px" src="../img/bdcuhm/project_bdcuhm1.jpg" class="img-thumbnail" >
   <img width="300px" src="../img/bdcuhm/BDCUHLogo.png" class="img-thumbnail" >
   <img width="300px" src="../img/bdcuhm/project_bdcuhm2.jpg" class="img-thumbnail" >
 </div>
 
-# Ballroom Dance Club at UH Mānoa (BDCUHM)
- 
 *The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently I am also the clubs Communication Officer.*
 
 ## Communication Officer Responsibilities
 
 <div>
+  
   <img align="left" class="p-40" width="500px" src="../img/bdcuhm/bdcuhm_sigposter.png" class="img-thumbnail">
-</div>
 
 I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am responsible for managing the clubs' instagram account and promoting Ballroom Dance Club at various events.
 
@@ -40,7 +40,7 @@ Being the friendly face that greets people and helps them settle into the club h
 
 Also given my role, it would be mindless of me to not include this: Follow our Instagram, [@bdcuhm](https://www.instagram.com/bdcuhm/), to stay updated with our events.
 
-<br>
+</div>
 
 ## Performance and Team Member  
 
@@ -48,10 +48,10 @@ As a club we typically have at least one performance and one competition each se
 
 ### Performances
 
-For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
+For performances our club does formations, meaning a group of us dance in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
 
 <div class="text-center p-4">
-  <img width="1000px" src="../img/bdcuhm/bdcuhm_performance_banner.png">
+  <img src="../img/bdcuhm/bdcuhm_performance_banner.png">
 </div>
 
 <details>
@@ -72,18 +72,16 @@ For performances our club does formations, meaning a group of us dances in a coh
 For competitons, members generally focus on technique and consistency. Partnership also becomes crucial during competition as you have to operate as one unit, this requires transparency and communication. My competition experience has fostered persistence.
 
 <div class="text-center p-4">
-  <img width="1000px" src="../img/bdcuhm/bdcuhm_competition_banner.png">
+  <img src="../img/bdcuhm/bdcuhm_competition_banner.png">
 </div>
 
 <details>
 <summary>Here is a table of competitions that I've competed in:</summary>
 
-| Competition             | Placements                     |
-|         :---:           | :---:                          |
-| 2023 Hawaii Star Ball   | 2nd in Smooth + 1st in Rhythm  |
-| 2024 Aloha Ball         | 1st in Smooth + 3rd in Rhythm  |
-| 2024 Nationals          | *                              |
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 * For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
   
@@ -107,3 +105,4 @@ In the world of ballroom dancing, collaboration is key. As a partner sport, ever
 <p align="center" > 
 ChatGPT was used to revised this project summary.
 
+</div>
