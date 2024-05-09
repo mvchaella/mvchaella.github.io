@@ -71,8 +71,6 @@ Academia Arena is a project that took a lot of care and dedication and I hope th
 
 ## Relevant Links
 
-<br>
-
 Our Deployed App -  [Academia Arena: ICS Edition](academia-arena.xyz)
 
 Our GitHub Organization - [Academia Arena Homepage](academia-arena.github.io)
