@@ -33,10 +33,13 @@ For my final project in ICS 314, Software Development,
 
 My main task throughout this project was the [Card Pull Page](https://academia-arena.xyz/pull). This page allows the user to gather points by answering ICS-related questions, and once they reach 100 points they are able to pull for a card.
 
+<img align="right" width="300px" src="../img/academia-arena/card-pull-page.png">
+
 Features:
 <li>React Quiz Component</li>
 <li>Visual Points Bar</li>
 <li>Pull Button Function</li>
+
 
 
 
