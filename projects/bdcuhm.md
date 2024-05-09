@@ -13,9 +13,9 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/bdcuhm/project_bdcuhm1.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/bdcuhm/BDCUHLogo.png" class="img-thumbnail" >
-  <img width="300px" src="../img/bdcuhm/project_bdcuhm2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/bdcuhm/project_bdcuhm1.jpg">
+  <img width="300px" src="../img/bdcuhm/BDCUHLogo.png">
+  <img width="300px" src="../img/bdcuhm/project_bdcuhm2.jpg">
 </div>
 
 <p align="center"> The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently I am also the clubs Communication Officer.</p>
