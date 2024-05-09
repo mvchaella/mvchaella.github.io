@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/academia-arena/academia-arena-logo.png
 title: "Academia Arena: ICS Edition"
-date: 2023
-published: false
+date: 2024
+published: true
 labels:
   - ICS 314
   - Final Project
@@ -47,7 +47,7 @@ Below (from left to right) is an example of the landing page, the cards, and the
 
 My main task throughout this project was the [Card Pull Page](https://academia-arena.xyz/pull). This page allows the user to gather points by answering ICS-related questions, and once they reach 100 points they are able to pull for a card.
 
-<img align="right" width="300px" src="../img/academia-arena/card-pull-page-2.png">
+<img align="right" width="600px" src="../img/academia-arena/card-pull-page-2.png">
 
 Features:
 <li>React Quiz Component</li>
@@ -56,8 +56,17 @@ Features:
 <li>Card Notification Pop-Up</li>
 <br>
 
-For the most part I focused on developing the Card Pull Page. Of the three main components, I struggled the most with the Pull Button Function, which once clicked randomly generates a card from the AllCards collection and adds it into the users collection.
+For the most part I focused on developing the Card Pull Page. Of the three main components, I struggled the most with the Pull Button Function, which once clicked randomly generates a card from the AllCards collection and adds it into the users collection. It required solid understanding of the Mongo database. For this I turned to one of my teammates for help [Erin Patterson](https://erinlpat.github.io/).
 
+<br>
+
+## Takeaways for the Future
+
+I am extremely proud of the collective effort of the Academia Arena team. This was my first experience doing a group coding project, and learning how to work in a group setting, organizing commits, and understanding each persons role has been an invaluable lesson. We had a bright vision for where this app could go and for the most part I think we accomplished that. One page we did not get a chance to develop was a battleground stage, but I think the foundations and ideas are there for future development.
+
+In terms of my software developing skills, I feel more confident in my HTML and CSS abilities. Using JavaScript and also MongoDB was a huge learning curve for me, but it is something I see myself growing into in the future. 
+
+Academia Arena is a project that took a lot of care and dedication and I hope that it shows through.
 
 <br>
 
