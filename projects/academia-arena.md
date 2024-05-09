@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/academia-arena/academia-arena-logo-sizeadjusted.png'
+image: img/academia-arena/academia-arena-logo-sizeadjusted.png
 title: "Academia Arena: ICS Edition"
 date: 2024
 published: true
