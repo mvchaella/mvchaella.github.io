@@ -9,12 +9,13 @@
   --tf-pink2: #eea1cd;
   --tf-pink3: #f4b8da;
   --tf-pink4: #f9cee7;
+  --tf-pink5: #fde4f2;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-pink1);
   --tf-pill-bg: var(--tf-pink3);
   --tf-icon-fill: var(--tf-pink1);
   --tf-icon-hover: var(--tf-pink2);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--bs-pink5);
   --tf-footer-bg-color: var(--tf-pink4);
   --tf-projects-bg-color: var(--tf-pink4);
 }
@@ -43,6 +44,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--bs-pink5);
   border-top: none;
 }
