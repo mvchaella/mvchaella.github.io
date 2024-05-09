@@ -7,7 +7,6 @@ date: 2024-05
 published: true
 labels:
   - ICS 314
-  - Final Project
   - Project
   - HTML
   - CSS
@@ -23,7 +22,7 @@ summary: "A trading card web application on the UHM ICS Department"
   <img align="left" width="300px" src="../img/academia-arena//academia-arena-logo.png">
 </div>
 
-For my final project in ICS 314 Software Development, I worked in a group of 6 students developing a trading cards game of the ICS department faculty members. This goal aims to bridge the gap between faculty members and students by helping students get familiar with faculty faces and learn professors interests and quirks, ultimately seeing them as a human they can talk to.
+For my final project in ICS 314 Software Development, I worked in a group of 6 students developing a trading cards game of the ICS department faculty members. This retro inspired game aims to bridge the gap between faculty members and students by helping students get familiar with faculty faces and learn professors interests and quirks, ultimately seeing them as a human they can talk to.
 
 Aside from the landing page, this game has 5 pages:
 <li>Home Page: Users can login or create an account</li>
@@ -70,15 +69,13 @@ Academia Arena is a project that took a lot of care and dedication and I hope th
 
 <br>
 
-
-
 ## Relevant Links
+
+<br>
 
 Our Deployed App -  [Academia Arena: ICS Edition](academia-arena.xyz)
 
 Our GitHub Organization - [Academia Arena Homepage](academia-arena.github.io)
 
 Our Source Code - [Academia Arena Source Code](https://github.com/academia-arena/academia-arena)
-
-
 
