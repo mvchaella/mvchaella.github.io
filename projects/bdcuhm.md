@@ -50,9 +50,9 @@ As a club we typically have at least one performance and one competition each se
 
 For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
 
-<div class="text-center p-4" width="500px">
-  <img src="../img/bdcuhm/bdcuhm_performance.png" class="img-thumbnail" >
-  <img src="../img/bdcuhm/bdcuhm_performance_1.JPG" class="img-thumbnail" >
+<div class="text-center p-4">
+  <img height="350px" src="../img/bdcuhm/bdcuhm_performance.png" class="img-thumbnail" >
+  <img height="350px" src="../img/bdcuhm/bdcuhm_performance_1.JPG" class="img-thumbnail" >
 </div>
 
 <details>
@@ -63,8 +63,9 @@ For performances our club does formations, meaning a group of us dances in a coh
 <li>2024 USADance Nationals Formation - Foxtrot, Viennese Waltz Medley</li>
 <li>2024 Spring ICS Project Day - Cha Cha, Bolero, Hustle Medley</li>
 </details>
-<br>
-Our next performance will be May 11, a Cha Cha, Bolero, Hustle Medley.
+
+<p align="center">Our next performance will be May 11, a Cha Cha, Bolero, Hustle Medley.</p>
+
 <br>
 
 ### Competitons
