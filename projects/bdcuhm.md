@@ -72,15 +72,19 @@ For competitons, members generally focus on technique and consistency. Partnersh
 
 <details>
 <summary>Here is a table of competitions that I've competed in:</summary>
-  
+
 | Competition             | Placements                     |
 |         :---:           | :---:                          |
 | 2023 Hawaii Star Ball   | 2nd in Smooth + 1st in Rhythm  |
 | 2024 Aloha Ball         | 1st in Smooth + 3rd in Rhythm  |
 | 2024 Nationals          | *                              |
 
+
 * For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
+  
 </details>
+
+<br>
 
 Our most recent competition is the 2024 Nationals, where *our UH team won the title of Highest National Average*. I've also had the opportunity to write a feature, [Just Dance](https://americandancer.org/just-dance/), for the American Dancer on my 2024 Nationals Experience. 
 
