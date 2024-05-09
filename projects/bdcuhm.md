@@ -72,7 +72,10 @@ For performances our club does formations, meaning a group of us dances in a coh
 
 For competitons, members generally focus on technique and consistency. Partnership also becomes crucial during competition as you have to operate as one unit, this requires transparency and communication. My competition experience has fostered persistence.
 
-//INSERT COMPETITION PHOTOS HERE
+<div class="text-center p-4">
+  <img width="300px" src="../img/bdcuhm/saloma_4.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/bdcuhm/Saloma_1.jpg" class="img-thumbnail" >
+</div>
 
 <details>
 <summary>Here is a table of competitions that I've competed in:</summary>
