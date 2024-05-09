@@ -24,19 +24,6 @@ There were 3 main aspects to my experience:
 
 <br>
 
-## Character Building Experience
-
-### L'expérience française et être indépendant (The French experience and being on my own.)
-
-
-I stayed with a host family, a french couple who spoke a little bit of english. They lived about 20 minutes total away from the school, 10 minute walk to the bus and a 10 minute bus ride. I shared a room with a fellow study abroad student, Terra, and had two other housemates who were also study abroad students from a different university and program. The living situation was very culturally french.
-
-<br>
-
-<img alt="image" width="1000px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
-
-<br>
-
 ## Language Building Experience
 
 ### Learning through people, not textbooks
@@ -44,6 +31,18 @@ I stayed with a host family, a french couple who spoke a little bit of english. 
 The classes were ran by the [Institut Français des Alpes (IFALPES)](https://ifalpes.com/) by French teachers. We would meet in-person in the IFALPES facility every day, alternative between mornings and afternoon classes.
 
 I completed my course with a A2 Level Language Certificate and completed the 6 credits for my Language Requirement at UH Mānoa.
+
+<br>
+
+<img alt="image" width="1000px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
+
+<br>
+
+## Character Building Experience
+
+### L'expérience française et être indépendant (The French experience and being on my own.)
+
+I stayed with a host family, a french couple who spoke a little bit of english. They lived about 20 minutes total away from the school, 10 minute walk to the bus and a 10 minute bus ride. I shared a room with a fellow study abroad student, Terra, and had two other housemates who were also study abroad students from a different university and program. The living situation was very culturally french.
 
 <br>
 
