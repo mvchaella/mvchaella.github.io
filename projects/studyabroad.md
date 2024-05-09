@@ -24,24 +24,40 @@ There were 3 main aspects to my experience:
 
 <br>
 
+## Character Building Experience
+
 ### L'expérience française et être indépendant (The French experience and being on my own.)
 
 
+I stayed with a host family, a french couple who spoke a little bit of english. They lived about 20 minutes total away from the school, 10 minute walk to the bus and a 10 minute bus ride. I shared a room with a fellow study abroad student, Terra, and had two other housemates who were also study abroad students from a different university and program. The living situation was very culturally french.
+
+<br>
 
 <img alt="image" width="1000px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
 
+<br>
+
+## Language Building Experience
+
 ### Learning through people, not textbooks
-
-I stayed with a host family, a french couple who spoke a little bit of english. They lived about 20 minutes total away from the school, 10 minute walk to the bus and a 10 minute bus ride. I shared a room with a fellow study abroad student, Terra, and had two other housemates who were also study abroad students from a different university and program. The living situation was very culturally french.
-
-
-
 
 The classes were ran by the [Institut Français des Alpes (IFALPES)](https://ifalpes.com/) by French teachers. We would meet in-person in the IFALPES facility every day, alternative between mornings and afternoon classes.
 
 I completed my course with a A2 Level Language Certificate and completed the 6 credits for my Language Requirement at UH Mānoa.
 
+<br>
+
 <img alt="image" width="1000px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
+
+<br>
+
+## Future Projections
+
+I initially took French because I had aspirations of joining the PeaceCorps and working in the Maghreb region where French is one of the broader languages spoken due to its colonial history.
+
+In the following Fall semester I ended up taking FR301 French Phonetics at UH Mānoa.
+
+I have ultimately not decided to pursure the French minor or a French language certificate, however it is a language I would like to grow personally especially as I move into my career.
 
 ### Report for the Alliance Française Hawai'i 
 
