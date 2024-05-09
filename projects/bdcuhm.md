@@ -96,10 +96,12 @@ Our most recent competition is the 2024 Nationals, where ***our UH team won the 
 
 ## General Insights: Finding the Rhythm in Life
 
-In the world of ballroom dancing, collaboration is key. As a partner sport, every dance requires open and clear communication. After a couple of performances and my first competition, I've learned effective communication with dance partners to navigating the emotional challenges that arise from the close proximity in ballroom. On top of that, my confidence has grown exponentially due ballroom. One lifestyle change I made in order to keep up with ballroom is going to the gym with a friend of mine about 3 times a week. Recognizing that ballroom is not just an art but a sport, I've become mindful of taking care of my body. The personal growth attained has helped me realize that the rhythm of life often mirrors the steps taken on the dance floor, and through ballroom, I've discovered how to dance to that rhythm.
+Through ballroom I've developed skills that transcend beyond the dance floor. Ballroom dancing is a partner dance, meaning you are constantly navigating the balance between yourself, your partner, and the floor. As a partner sport, every dance requires open and clear communication. After performing and competing with my partners, I've grown to learn how to deal with personal conflict and how to also communicate my own thoughts while listening carefully to theirs. 
+
+Ballroom has also propelled me to make a couple of changes to my lifestyle, mostly relating to my health. One lifestyle change I made in order to keep up with ballroom is going to the gym with a friend of mine about 3 times a week. Recognizing that ballroom is not just an art but a sport, I've become mindful of taking care of my body. As for my mental health, the friendships I've formed and the support system I have in ballroom has contributed greatly to my happiness.
+
+While not directly connected to Computer Science, this project is something that is tied strongly to my character. The personal growth attained has helped me realize that the rhythm of life often mirrors the steps taken on the dance floor, and through ballroom, I've discovered how to dance to that rhythm.
 
 <br>
 <p align="center" >
 <img src = "https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fe9375f2-0bba-4305-8323-75cd296814a0">
-<p align="center" > 
-ChatGPT was used to revised this project summary.
