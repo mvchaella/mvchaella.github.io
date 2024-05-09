@@ -51,8 +51,7 @@ As a club we typically have at least one performance and one competition each se
 For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
 
 <div class="text-center p-4">
-  <img height="300px" src="../img/bdcuhm/bdcuhm_performance.png" class="img-thumbnail" >
-  <img height="300px" src="../img/bdcuhm/bdcuhm_performance_1.JPG" class="img-thumbnail" >
+  <img width="1000px" src="../img/bdcuhm/bdcuhm_performance_banner.png">
 </div>
 
 <details>
@@ -73,8 +72,7 @@ For performances our club does formations, meaning a group of us dances in a coh
 For competitons, members generally focus on technique and consistency. Partnership also becomes crucial during competition as you have to operate as one unit, this requires transparency and communication. My competition experience has fostered persistence.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/bdcuhm/saloma_4.jpg" class="img-thumbnail" >
-  <img width="300px" src="../img/bdcuhm/Saloma_1.jpg" class="img-thumbnail" >
+  <img width="1000px" src="../img/bdcuhm/bdcuhm_competition_banner.png">
 </div>
 
 <details>
