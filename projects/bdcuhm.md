@@ -25,7 +25,7 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
 ## Communication Officer Responsibilities
 
 <div>
-  <img align="left" class="p-10" width="500px" src="../img/bdcuhm/bdcuhm_sigposter.png" class="img-thumbnail">
+  <img align="left" class="p-40" width="500px" src="../img/bdcuhm/bdcuhm_sigposter.png" class="img-thumbnail">
 </div>
 
 I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am responsible for managing the clubs' instagram account and promoting Ballroom Dance Club at various events.
@@ -51,8 +51,8 @@ As a club we typically have at least one performance and one competition each se
 For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
 
 <div class="text-center p-4">
-  <img height="350px" src="../img/bdcuhm/bdcuhm_performance.png" class="img-thumbnail" >
-  <img height="350px" src="../img/bdcuhm/bdcuhm_performance_1.JPG" class="img-thumbnail" >
+  <img height="300px" src="../img/bdcuhm/bdcuhm_performance.png" class="img-thumbnail" >
+  <img height="300px" src="../img/bdcuhm/bdcuhm_performance_1.JPG" class="img-thumbnail" >
 </div>
 
 <details>
