@@ -11,15 +11,14 @@ labels:
 summary: "Study Abroad Experience for Summer 2023 in Annecy, France for 6 credits of language credit."
 ---
 
-<div width = "660px" >
-  
-<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/ec5894d5-bf74-4ac7-ac30-0d44c4c5b133">
+
+<img alt="image" width="1500px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/ec5894d5-bf74-4ac7-ac30-0d44c4c5b133">
 
 ### L'expérience française et être indépendant (The French experience and being on my own.)
 
 For a month I was across the world in France on my own, immersed in a foreign culture. This was an opportunity I am very fortunate to have, as this immersion facilitated my language learning as well as honed my abilities to adapt and explore.
 
-<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
+<img alt="image" width="1500px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
 
 ### Learning through people, not textbooks
 
@@ -32,7 +31,7 @@ The classes were ran by the [Institut Français des Alpes (IFALPES)](https://ifa
 
 I completed my course with a A2 Level Language Certificate and completed the 6 credits for my Language Requirement at UH Mānoa.
 
-<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
+<img alt="image" width="1500px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
 
 ### Report for the Alliance Française Hawai'i 
 
@@ -40,6 +39,6 @@ Prior to joining the study abroad I was awarded a scholarship from the [Alliance
 
 <p align=center> PDF of AFH Newsletter: Not Yet Available </p>
 
-<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/1eb2143b-a8bb-4506-a6e0-da7da477b9fd">
+<img alt="image" width="1500px" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/1eb2143b-a8bb-4506-a6e0-da7da477b9fd">
 
-</div>
+
