@@ -17,4 +17,17 @@ labels:
 summary: "A trading card web application on the UHM ICS Department"
 ---
 
-<img src=".../img/academia-arena/academia-arena-logo.png">
+## Overview 
+
+<img align="left" width="300px" src="../img/academia-arena//academia-arena-logo.png" class="img-thumbnail" >
+
+For my final project in ICS 314, Software Development, 
+
+## My Contributions
+
+
+## Relevant Links
+
+<li>Our deployed app, (Academia Arena: ICS Edition)[academia-arena.xyz] </li>
+
+
