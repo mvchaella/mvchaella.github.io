@@ -18,18 +18,14 @@ summary: "Communication Officer for the Ballroom Dance Club at UH Mānoa"
   <img width="300px" src="../img/bdcuhm/project_bdcuhm2.jpg" class="img-thumbnail" >
 </div>
 
-<p align="center" > 
-  
-*The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently I am also the clubs Communication Officer.*
+<p align="center"> The Ballroom Dance Club is a registered independent organization (RIO) that encourages non-dancers and beginners to join and learn how to ballroom dance. I became a member in the spring semester of 2023, and have since continued on to performing in performances and competing in competitions. Currently I am also the clubs Communication Officer.</p>
 
 <br>
 
 ## Communication Officer Responsibilities
 
-<img align="right" class="p-40" width="500px" src="../img/bdcuhm/bdcuhm_sigposter.png" class="img-thumbnail">
+<img align="right" class="p-40" width="500px" src="../img/bdcuhm/bdcuhm_sigposter.png">
 
-<div>
-  
 I'm currently the Communications Officer for the Ballroom Dance Club, and through that role I am responsible for managing the clubs' instagram account and promoting Ballroom Dance Club at various events.
 
 My Main Responsibilities:
@@ -43,8 +39,6 @@ Being the friendly face that greets people and helps them settle into the club h
 Also given my role, it would be mindless of me to not include this: 
 
 Follow our Instagram, [@bdcuhm](https://www.instagram.com/bdcuhm/), to stay updated with our events.
-
-</div>
 
 <br>
 
@@ -82,12 +76,11 @@ For competitons, members generally focus on technique and consistency. Partnersh
 </div>
 
 <details>
-<summary>Here is a table of competitions that I've competed in:</summary>
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<summary>Here is a list of competitions that I've competed in:</summary>
+  
+<li>2023 Hawaii Star Ball - 2nd in Smooth, 1st in Rhythm</li>
+<li>2024 Aloha Ball - 1st in Smooth, 3rd in Rhythm</li>
+<li>2024 Collegiate Dancesport Nationals - *</li>
 
 * For my Nationals experience, I competed in 3 styles - Smooth, Standard, and Rhythm, across various levels, Pre-Bronze and Bronze. My partners and I made it to the finals for almost all of our categories and placed a variety of 1st to 7th.
   
@@ -95,9 +88,9 @@ For competitons, members generally focus on technique and consistency. Partnersh
 
 <br>
 
-Our most recent competition is the 2024 Nationals, where *our UH team won the title of Highest National Average*. I've also had the opportunity to write a feature, [Just Dance](https://americandancer.org/just-dance/), for the American Dancer on my 2024 Nationals Experience. 
+Our most recent competition is the 2024 Nationals, where ***our UH team won the title of Highest National Average***. I've also had the opportunity to write a feature, [Just Dance](https://americandancer.org/just-dance/), for the American Dancer on my 2024 Nationals Experience. 
 
-Our next competition will be in the Fall Semester, 2024 Hawaii Star Ball.
+<p align="center">Our next competition will be in the Fall Semester, 2024 Hawaii Star Ball.</p>
 
 <br>
 
