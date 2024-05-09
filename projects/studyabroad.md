@@ -21,16 +21,24 @@ For a month I was across the world in France on my own, immersed in a foreign cu
 
 <img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/fa04869d-93f5-4347-a583-cb4ef57eaf1f">
 
-
 ### Learning through people, not textbooks
-<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
 
+I stayed with a host family, a french couple who spoke a little bit of english. They lived about 20 minutes total away from the school, 10 minute walk to the bus and a 10 minute bus ride. I shared a room with a fellow study abroad student, Terra, and had two other housemates who were also study abroad students from a different university and program. The living situation was very culturally french.
+
+
+
+
+The classes were ran by the [Institut Français des Alpes (IFALPES)](https://ifalpes.com/) by French teachers. We would meet in-person in the IFALPES facility every day, alternative between mornings and afternoon classes.
+
+I completed my course with a A2 Level Language Certificate and completed the 6 credits for my Language Requirement at UH Mānoa.
+
+<img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/8caf90b0-f8bf-4554-ad85-16efed643180">
 
 ### Report for the Alliance Française Hawai'i 
 
-Prior to joining the study abroad I was awarded a scholarship from the Alliance Française Hawai'i (AFH) and was also able to write a report in French to be published in their bi-monthly newsletter.
+Prior to joining the study abroad I was awarded a scholarship from the [Alliance Française Hawai'i (AFH)](https://afhawaii.org/) and was also able to write a report in French to be published in their bi-monthly newsletter.
 
-PDF of AFH Newsletter: Not Yet Available
+<p align=center> PDF of AFH Newsletter: Not Yet Available </p>
 
 <img alt="image" src="https://github.com/mvchaella/mvchaella.github.io/assets/131205465/1eb2143b-a8bb-4506-a6e0-da7da477b9fd">
 
