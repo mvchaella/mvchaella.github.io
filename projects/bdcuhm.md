@@ -50,7 +50,11 @@ As a club we typically have at least one performance and one competition each se
 
 For performances our club does formations, meaning a group of us dances in a cohesive manner. This requires attention to detail, as uniformity is critical. Through performances I've learned how to go on the floor and just have fun.
 
-// INSERT PERFORMANCE PICTURES HERE
+<div class="text-center p-4">
+  <img width="400px" src="../img/bdcuhm/project_bdcuhm1.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/bdcuhm/BDCUHLogo.png" class="img-thumbnail" >
+  <img width="400px" src="../img/bdcuhm/project_bdcuhm2.jpg" class="img-thumbnail" >
+</div>
 
 <details>
 <summary>Here is a list of performances that I've participated in:</summary>
