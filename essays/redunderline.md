@@ -19,7 +19,7 @@ When I was asked what my favorite color was growing up, I’d always say "the ra
 
 ## ESLint is a Perfectionist
 
-<img align="left" width="300px" src="../img/essay_pics/redunderlines/redunderlines_2.png">
+<img align="left" width="500px" src="../img/essay_pics/redunderlines/redunderlines_2.png">
 
 In my last ICS class, I was introduced to the concept of coding style and its significance in programming. It was also a factor in my grade. Essentially, coding style refers to the conventions used in writing readable code. It ensures clarity and consistency throughout a program. It’s been a big topic in this department, and I remember participating in surveys conducted by TAs about determining the most effective approaches for naming variables and methods. My instructor last semester made a point that stuck with me: we live in an age where now we have a lot of resources and a lot of programmers, so the emphasis is making sure that the code we share is readable so anyone can see it, understand it, and work with it.
 
@@ -29,7 +29,7 @@ Using ESLint was my intro into code analysis plugins to check to see if my code 
 
 ## Red Flags to Green Lights
 
-<img align="right" width="500px" src="../img/essay_pics/redunderlines/redunderlines_3.png">
+<img align="right" width="600px" src="../img/essay_pics/redunderlines/redunderlines_3.png">
 
 Coding standards are invaluable for long-term success in software development. They promote uniformity and efficiency in code development and provide a structured framework for achieving quality in software projects. They also contributes to the longevity of code since well-structured and well-documented code is less prone to errors, easier to debug, and more adaptable to future changes and updates. Investing time and effort in establishing and maintaining a good coding style truly pays off in the long run.
 
