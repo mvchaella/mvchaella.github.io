@@ -5,23 +5,21 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-pink1: #F7418F;
-  --tf-pink2: #FC819E;
-  --tf-pink3: #FEC7B4;
-  --tf-pink4: #FFF3C7;
+  --tf-pink1: #F7418F; //hot pink
+  --tf-pink2: #FC819E;  //pink
+  --tf-pink3: #FEC7B4; // peach
+  --tf-pink4: #FFF3C7; //yellow
   --bs-font-sans-serif: "Montserrat", sans-serif;
+  
   --bs-link-color: var(--tf-pink1);
-  --tf-pill-bg: var(--tf-pink3);
-  --tf-icon-fill: var(--tf-pink1);
-  --tf-icon-hover: var(--tf-pink3);
-  --tf-page-bg-color: var(--tf-pink4);
-  --tf-footer-bg-color: var(--tf-pink4);
-  --tf-projects-bg-color: var(--tf-pink4);
+  --tf-pill-bg: var(--tf-pink4);
+  --tf-icon-fill: var(--tf-pink4);
+  --tf-icon-hover: var(--tf-pink1);
+  --tf-page-bg-color: var(--tf-pink3);
+  --tf-footer-bg-color: var(--tf-pink2);
+  --tf-projects-bg-color: var(--tf-pink3);
 }
 
-#navbar {
-  background-color: var(--tf-pink2);
-}
 
 h1, h2 {
   bs-font-sans-serif: "Archivo", sans-serif;
@@ -29,7 +27,7 @@ h1, h2 {
 }
 
 h3,h4,h5 {
-  color: var(--tf-pink3);
+  color: var(--tf-pink1);
 }
 
 /* Format social media icons */
