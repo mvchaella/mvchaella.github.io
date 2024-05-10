@@ -18,10 +18,25 @@ This simple database is a program that I created as an assignment in ICS 212, Fa
 
 ### User-Interface
 
-Here is some example of the output to illustrate the code's functionality:
-<img src="../img/cdatabase/ics212_database_1.png" class="img-thumbnail" >
+Here is an example of the output to illustrate the code's user-interface:
 
-### Takeaways
+<img witdh="600px" src="../img/cdatabase/ics212_database_1.png" class="img-thumbnail" >
+
+### Database
+
+The database was written in C++, with several copy constructors for an extra credit opportunity, and containing the following methods:
+```
+int llist::addRecord(int uaccountno, char uname[], char uaddress[])
+void llist::printAllRecords()
+int llist::findRecord(int uaccountno)
+int llist::deleteRecord(int uaccountno)
+int llist::readfile()
+int llist::writefile()
+void llist::cleanup()
+```
+<br>
+
+## Takeaways
 
 The project helped me learn how to design a user interface and implement a single linked list data structure. It was developed on UNIX, a multi-user operating system, and coded using C++. In this project I gained experience with C++ and back-end development. 
 
