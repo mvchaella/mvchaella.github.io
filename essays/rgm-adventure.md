@@ -11,3 +11,12 @@ labels:
   - Software Development
 ---
 
+## Introduction
+
+## Development Environments
+
+## User Interface Frameworks
+
+## Ethics in Software Engineering
+
+## Conclusions
