@@ -45,7 +45,7 @@ Here is an example of a site I attempted to create:
 
 <div class="container text-center p-4">
   <img height=400px src="../img/essay_pics/prettysites/prettysites_3.png">
-  <img height=400px src="../img/essay_pics/prettysites/prettysites_3.png">
+  <img height=400px src="../img/essay_pics/prettysites/prettysites_4.png">
 </div>
 
 Definitely some notable difference. The originial website probably used tools beyond Bootstrap, and while Bootstrap helped me design a site that came pretty close, it definitely wasn't pixel perfect.
