@@ -36,7 +36,7 @@ Sometimes I feel like I’m playing a never-ending game of catch-up because ther
 
 ## Future Computer Composition
 
-<img align="left" width = "250" src="../img/essay_pics/designindevelopment/designindevelopment_3.png">
+<img align="left" width = "250" src="../img/essay_pics/designindevelopment/desginindevelopment_3.png">
 
 Despite this being my second year in the Information & Computer Science major, I haven’t taken the skills I’ve learned beyond the classroom. That’s my biggest goal for this year – to start creating something. One of the main reasons I was looking forward to taking ICS 314 this semester was because I wanted to learn how to create an application, and I'm starting to feel a little bit more confident my growing abilities. The WODs in class help remind me that sometimes I know more than I thought, and I leave feeling a little closer to capable of building an app. I look forward to doing more WODs as these experience will enhance my programming skills and help me gain practical experience for more opportunities in the future. At the end of this all, I hope I come out as a competent software developer.
 
