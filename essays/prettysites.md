@@ -19,7 +19,7 @@ When I saw an ugly website, my first thought would be *“how could someone actu
 
 # The Basics of UI Frameworks
 
-<img align=right width=500px src="../img/essay_pics/prettysites/prettysites_2.png">
+<img align=right width=400px src="../img/essay_pics/prettysites/prettysites_2.png">
 
 UI frameworks like Bootstrap and Semantic UI offer a pre-designed set of components, styles, and utilities that streamline the process of building user interfaces.
 
