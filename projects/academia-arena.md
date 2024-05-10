@@ -71,9 +71,9 @@ Academia Arena is a project that took a lot of care and dedication and I hope th
 
 ## Relevant Links
 
-Our Deployed App -  <a href="https://academia-arena.xyz/">Academia Arena: ICS Edition</a>
+Our Deployed App -  [Academia Arena: ICS Edition](https://academia-arena.xyz/)
 
-Our GitHub Organization - [Academia Arena Homepage](academia-arena.github.io)
+Our GitHub Organization - [Academia Arena Homepage](https://academia-arena.github.io/)
 
 Our Source Code - [Academia Arena Source Code](https://github.com/academia-arena/academia-arena)
 
