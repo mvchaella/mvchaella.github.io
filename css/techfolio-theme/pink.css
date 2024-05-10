@@ -10,7 +10,7 @@
 :root {
   --tf-pink1: #FBA1B7;
   --tf-pink2: #FFD1DA;
-  --tf-orange3: #FFDBAA;
+  --tf-orange3: #ffd091;
   --tf-pink4: #FFF0F5;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-pink1);
@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5 {
 }
 
 p {
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
 }
 
 /* Format social media icons */
