@@ -22,6 +22,13 @@
   --tf-projects-bg-color: var(--tf-pink4);
 }
 
+#header {
+  background-color: var(--tf-pink4);
+  color: var(--tf-pink1);
+  font-family: "Montserrat", sans-serif;
+}
+
+
 h1,h2,h3,h4,h5 {
   color: var(--tf-pink1);
   font-family: "Montserrat", sans-serif;
