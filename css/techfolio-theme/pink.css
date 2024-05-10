@@ -25,12 +25,13 @@
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-pink1);
+  bs-font-sans-serif: "Varela Round", sans-serif;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-pink1);
+  fill: var(--tf-icon-pink1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
