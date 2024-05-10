@@ -25,6 +25,10 @@ h1,h2,h3,h4,h5 {
   font-family: Rubik;
 }
 
+p {
+  font-family: Montserrat;
+}
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
@@ -46,7 +50,7 @@ a {
 .rounded-circle {
   border-color: var(--tf-pink1);
   border-style: solid;
-  border-width: 1px;
+  border-width: 3px;
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
