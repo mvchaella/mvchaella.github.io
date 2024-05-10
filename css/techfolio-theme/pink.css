@@ -5,16 +5,16 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-pink1: #e68bbe;
-  --tf-pink2: #eea1cd;
-  --tf-pink3: #f4b8da;
-  --tf-pink4: #f9cee7;
-  --bs-font-sans-serif: "Varela Round", sans-serif;
+  --tf-pink1: #F7418F;
+  --tf-pink2: #FC819E;
+  --tf-pink3: #FEC7B4;
+  --tf-pink4: #FFF3C7;
+  --bs-font-sans-serif: "Montserrat", sans-serif;
   --bs-link-color: var(--tf-pink1);
   --tf-pill-bg: var(--tf-pink3);
   --tf-icon-fill: var(--tf-pink1);
   --tf-icon-hover: var(--tf-pink3);
-  --tf-page-bg-color: white;
+  --tf-page-bg-color: var(--tf-pink4);
   --tf-footer-bg-color: var(--tf-pink4);
   --tf-projects-bg-color: var(--tf-pink4);
 }
@@ -25,7 +25,6 @@
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-pink1);
-  bs-font-sans-serif: "Varela Round", sans-serif;
 }
 
 /* Format social media icons */
@@ -48,6 +47,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-pink4);
+  background-color: var(--bs-pink3);
   border-top: none;
 }
