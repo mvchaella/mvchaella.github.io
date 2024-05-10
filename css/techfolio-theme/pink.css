@@ -7,29 +7,29 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #076db3;
-  --tf-blue2: #1b6fa9;
-  --tf-blue3: #2f8ed0;
-  --tf-blue4: #bde3f0;
-  --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-blue3);
-  --tf-icon-fill: var(--tf-blue1);
-  --tf-icon-hover: var(--tf-blue3);
+  --tf-hotpink: #F7418F;
+  --tf-pink: #FC819E;
+  --tf-peach: #FEC7B4;
+  --tf-yellow: #FFF3C7;
+  --bs-font-sans-serif: "Montserrat", sans-serif;
+  --bs-link-color: var(--tf-hotpink);
+  --tf-pill-bg: var(--tf-peach);
+  --tf-icon-fill: var(--tf-hotpink);
+  --tf-icon-hover: var(--tf-peach);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: var(--tf-yellow);
+  --tf-projects-bg-color: var(--tf-yellow);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-blue1);
-  font-family: Rubik;
+  color: var(--tf-hotpink);
+  font-family: Montserrat;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue1);
+  fill: var(--tf-hotpink);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -45,7 +45,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue1);
+  border-color: var(--tf-hotpink);
   border-style: solid;
   border-width: 1px;
 }
@@ -53,6 +53,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-pink3);
+  background-color: var(--bs-pink);
   border-top: none;
 }
