@@ -9,14 +9,18 @@
   --tf-pink2: #eea1cd;
   --tf-pink3: #f4b8da;
   --tf-pink4: #f9cee7;
-  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-font-sans-serif: "Poppins", sans-serif;
   --bs-link-color: var(--tf-pink1);
   --tf-pill-bg: var(--tf-pink3);
   --tf-icon-fill: var(--tf-pink1);
-  --tf-icon-hover: var(--tf-pink2);
+  --tf-icon-hover: var(--tf-pink3);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-pink4);
   --tf-projects-bg-color: var(--tf-pink4);
+}
+
+#navbar {
+  background-color: var(--tf-pink2);
 }
 
 h1,h2,h3,h4,h5 {
