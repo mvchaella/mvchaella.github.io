@@ -16,8 +16,10 @@ My favorite ice breaker question that I've ever been asked was, *"What random sk
 A Rube Goldberg machine involve a series of reactions that trigger one random event after another until the final event is set off. In a way, we've all grasped the concept of Rube Goldberg machines; they're ingenious contraptions that take an object, typically a ball, on a convoluted path just to end up in a cup. 
 
 <div align="center">
-  <img width=600px src="../img/essay_pics/rgm-adventure/rgm-adventure-1.png">
+  <img width=600px src="../img/essay_pics/rgm-adventure/rgm-adventure-1.png" class="img-thumbnail">
 </div>
+
+<br>
 
 I've always felt like my journey in software development was like a Rube Goldberg machine — sequential yet nonlinear, sometimes feeling disjointed, both complex and simple, and yet fun to watch. It's a process where various components work together in unexpected ways, much like the reactions in a Rube Goldberg machine. This semester has been a particularly enjoyable adventure, with each step feeling like a unique piece in a larger, intricate puzzle.
 
@@ -25,7 +27,7 @@ I've always felt like my journey in software development was like a Rube Goldber
 
 ## Development Environments
 
-<img align="left" width=300px src="../img/essay_pics/rgm-adventure/rgm-adventure_2.png">
+<img align="left" width=250px src="../img/essay_pics/rgm-adventure/rgm-adventure_2.png">
 
 In my previous classes, I had exposure to various Integrated Development Environments (IDEs) such as Eclipse, some VSCode, and UNIX. Delving into IntelliJ felt both familiar and new at the same time. IntelliJ IDEA provides a clean and intuitive interface for coding, which made the transition into using it quite smooth. Additionally, when combined with GitHub, IntelliJ offers an integrated environment that streamlines the coding process even further. 
 
