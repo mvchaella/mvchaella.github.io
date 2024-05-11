@@ -40,7 +40,11 @@ Throughout this class, we explored various aspects of web design, including basi
 
 It directly correlates to user accessibility – influencing their overall experience and satisfaction. A well-designed UI enhances usability, making the software intuitive and easy to navigate, which in turn increases user engagement and adoption.
 
+<br>
+
 ## Ethics in Software Engineering
+
+<img align="right" src="../img/essay_pics/rgm-adventure/rgm-adventure-3.webp">
 
 Throughout the semester, we've had ongoing discussions about the responsible use of AI. Personally, I've gained valuable insight into how to use AI as a tool effectively. One of the most engaging moments came on the last day of instruction, when we debated whether a company should hire a new, AI-proficient computer scientist over a more experienced one with a broader skill set. It was fascinating to see everyone's perspectives merge, with valid points on both sides. Ethics is a critical aspect of our pathway because as we create technology that becomes increasingly pervasive, it's essential to ensure it uplifts people and doesn't cause harm.
 
