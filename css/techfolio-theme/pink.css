@@ -33,7 +33,7 @@ p, li {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-pink1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
