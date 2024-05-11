@@ -25,9 +25,13 @@ I've always felt like my journey in software development was like a Rube Goldber
 
 ## Development Environments
 
+<img align="left" width=400px src="../img/essay_pics/rgm-adventure/rgm-adventure_2.png">
+
 In my previous classes, I had exposure to various Integrated Development Environments (IDEs) such as Eclipse, some VSCode, and UNIX. Delving into IntelliJ felt both familiar and new at the same time. IntelliJ IDEA provides a clean and intuitive interface for coding, which made the transition into using it quite smooth. Additionally, when combined with GitHub, IntelliJ offers an integrated environment that streamlines the coding process even further. 
 
 Proficiency in navigating different Integrated Development Environments (IDEs) is crucial for software development. Due to the collaborative nature of projects, being proficient in multiple IDEs enables developers to easily collaborate with teammates who may have different tool preferences, fostering smoother communication and teamwork. Additionally, staying adaptable and open to learning new IDEs ensures that developers can keep up with evolving technology and take advantage of the latest advancements in software development tools.
+
+<br>
 
 ## User Interface Frameworks
 
