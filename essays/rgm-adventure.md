@@ -40,9 +40,7 @@ It directly correlates to user accessibility – influencing their overall exper
 
 Throughout the semester, we've had ongoing discussions about the responsible use of AI. Personally, I've gained valuable insight into how to use AI as a tool effectively. One of the most engaging moments came on the last day of instruction, when we debated whether a company should hire a new, AI-proficient computer scientist over a more experienced one with a broader skill set. It was fascinating to see everyone's perspectives merge, with valid points on both sides. Ethics is a critical aspect of our pathway because as we create technology that becomes increasingly pervasive, it's essential to ensure it uplifts people and doesn't cause harm.
 
-## Conclusions
+## End of a Segment, Onto the Next
 
-There have been a couple of modules that stuck out to me this semester, which individually were simple, but altogether accumulated into a semester packed with learning. Learning how to navigate IntelliJ, building my web design skills, and the constant awareness of ethics were some of the aspects that made this class my favorite so far. 
-
-This class has been a fun segment in my Rube Goldberg Adventure in Software Development.
+There have been a couple of modules that stuck out to me this semester, which individually were simple, but altogether accumulated into a semester packed with learning. Learning how to navigate IntelliJ, building my web design skills, and the constant awareness of ethics were some of the aspects that made this class my favorite so far. This semester overall has been a fun segment in my Rube Goldberg Adventure in Computer Science.
 
