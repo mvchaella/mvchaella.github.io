@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "An Adventure into Software Development"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-09
-published: false
+date: 2024-05-10
+published: true
 labels:
   - ICS314
   - Essay
